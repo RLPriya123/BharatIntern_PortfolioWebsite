@@ -1,0 +1,57 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.nav a {
+    float: left;
+    display: block;
+    color: #231b1b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+p{
+
+    font-size: 24px; 
+    text-align: center;
+}
+.abc
+{
+    display: inline;
+    border: none;
+    background-color: #e6e6f4;
+    padding: 14px 28px;
+    font-size: 16px;
+
+}
+.def
+{
+    display: inline;
+    border: none;
+    background-color: #1d1ada;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+.ghi
+{
+    display: inline;
+    border: none;
+    background-color:aqua;
+    padding: 15px 10px;
+    font-size: 16px;
+    text-align: center;
+    font-style:italic;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 28px;
+}
+#op{
+    font-size: 24px;
+}
